@@ -1,3 +1,3 @@
 Run programs with TrustedInstaller privilege.
-How to compile: RunAsTrustedInstaller.bat
-usage: RunAsTrustedInstaller.exe xxx.exe
+\nHow to compile: RunAsTrustedInstaller.bat
+\nusage: RunAsTrustedInstaller.exe xxx.exe
